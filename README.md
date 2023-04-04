@@ -1,1 +1,0 @@
-# rt_hrc_semantic_segmentation
